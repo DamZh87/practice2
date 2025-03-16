@@ -1,0 +1,82 @@
+{
+    "navigation": {
+    "home": "Home",
+    "our_works": "Our works",
+    "prices": "Prices",
+    "about_us": "About us"
+  },
+
+  "hero_block": {
+    "hero_main": "IT solutions development for your future",
+    "hero_descr": "A studio for modular systems, web development, and business process automation.",
+    "hero_text": "\"Technicorn\" is an IT outsourcing company with many years of experience in developing digital products. We create: websites, online stores, mobile applications, CRM systems, and also do SEO optimization, UX/UI design and graphic design. Our services will help your business become modern and effective.",
+    "hero_connect_us": "Contact us",
+    "write_whatsapp": "Write to us on WhatsApp",
+    "write_telegram": "Write to us on Telegram",
+    "send_mail": "Write to us via email",
+    "leave_order": "Leave an order"
+  },
+
+  "partners_block": {
+  "partners": "Partners",
+  "clients": "Clients"
+},
+
+"services": {
+  "services_label": "Services",
+
+  "site_dev": "Website Development",
+  "site_dev_descr": "We create modern, responsive websites that work quickly and efficiently on all devices.",
+  "site_dev_features": "• Website structure development.\n• Responsive design, including UX/UI.\n• CMS integration.\n• Server and domain setup.\n• SEO settings for promotion.\n• Testing and support.\nAdditionally: implementation timeline, estimated price range, possible case studies.",
+
+  "mobile_apps": "Mobile Application Development (Native & Cross-platform)",
+  "mobile_apps_descr": "We create mobile applications that work fast, stable, and engage users. Native apps for maximum performance or cross-platform solutions for budget efficiency.",
+  "mobile_apps_full_descr": "Consultation and task analysis: We conduct research, study the audience, and define functional requirements.\nDevelopment approach selection:\n- Native applications: Development for iOS (Swift) and Android (Kotlin/Java) for maximum performance.\n- Cross-platform applications: Using Flutter or React Native to create a single codebase for both platforms.\nUX/UI design: Creating user-friendly interfaces and prototypes.\nFunctional development:\n- Implementing all necessary features: push notifications, API integration, geolocation, payment systems.\nTesting: Ensuring stability and device compatibility.\nPublishing on App Store and Google Play: Assisting with app deployment.\nSupport and updates: Updating the app according to market and user demands.\nAdditionally: The cost depends on project complexity.",
+
+  "func_imp": "Functionality Improvement (API, Maps, Partner Services, Payment Systems)",
+  "func_imp_descr": "We enhance the capabilities of your information systems by integrating new modules: APIs, maps, payments, and more.",
+  "func_imp_full_descr": "• System analysis: We examine the existing architecture and functionality.\n• API integration: Connecting external and internal APIs for automation and data exchange. Examples: REST, GraphQL.\n• Working with maps:\n  - Integrating geolocation services (Google Maps, Yandex Maps).\n  - Setting up routes, points of interest, and tracking.\n• Payment system integration:\n  - Connecting popular payment solutions (Stripe, PayPal, QIWI, Kaspi, etc.).\n  - Configuring payment security (SSL, PCI DSS).\n• Partner services:\n  - Connecting CRM, ERP, or other platforms via API.\n  - Integrating external databases or analytics services.\n• Testing and optimization:\n  - Ensuring stability.\n  - Optimizing new module performance.\n• Documentation: Writing guidelines for the client’s team to ensure system clarity.\nAdditionally: Scalability and flexible customization options."
+},
+
+
+"question_block": {
+    "question": "Question",
+    "answer": "Answer"
+  },
+
+"our_team": {
+    "team_label": "Our Team",
+    "team_name": "Ivan Ivanov",
+    "team_spec": "Frontend Developer",
+    "read_more": "Read More"
+},
+
+"get_advice": {
+  "advice_label": "Leave a request and we will contact you",  
+  "advice_type": "Select a service",
+  "name": "Name",
+  "phone": " Phone",
+  "email": "Email",
+  "advice_budget": "Budget",
+  "create_web": "Web application development",
+  "create_bot": "Telegram mini-app development",
+  "create_sites": "Website development",
+  "create_mobile_apps": "Mobile application development",
+  "create_CRM": "CRM system development",
+  "comment": "Comment",
+  "send_post": "Send",
+  "success_message": "Your request has been sent, we will contact you shortly",
+  "average": "Select an approximate project budget for a more accurate proposal"
+},
+
+
+"footer": {
+    "menu": "Menu",
+    "help": "Help",
+    "social_n": "Social Networks",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "team": "Our Team",
+    "rights_docs": "Legal Documents"
+  }
+}

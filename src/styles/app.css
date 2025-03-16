@@ -1,0 +1,12 @@
+.animate-flying {
+  animation: flying 5s ease-in-out alternate infinite;
+}
+
+@keyframes flying {
+  from {
+    transform: translateY(-40px) rotate(-1deg);
+  }
+  to {
+    transform: translateY(40px) rotate(1deg);
+  }
+}
